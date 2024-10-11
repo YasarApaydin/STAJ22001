@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Sohbet</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/5.0.11/signalr.min.js"></script>
+</head>
+<body>
+    <div id="chatEkrani">
+        <div class="row">
+            <div class="col-md-12 bg-white">
+                <div class="d-flex">
+                    <div class="alert alert-dark" role="alert">
+                        <b>Karşı Taraf:</b> Bu mesajı karşı taraftan gönderdiniz!
+                    </div>
+                </div>
+                <div class="d-flex justify-content-end">
+                    <div class="alert alert-info" role="alert">
+                        Bu mesajı tarafınızdan gönderdiniz!
+                        <b id="mesajlarListesi"></b>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12 mt-3">
+                <div class="row">
+                    <div class="col-md-4">
+                        <input type="text" id="kullanıcıGirdisi" placeholder="Kullanıcı Adı" />
+                    </div>
+                    <div class="col-md-4">
+                        <input type="text" id="mesajGirdisi" placeholder="Mesaj" />
+                    </div>
+                    <div class="col-md-4">
+                        <button type="button" onclick="mesajGonder()" class="form-control btn btn-success">Gönder</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        const bağlanti = new signalR.HubConnectionBuilder()
+            .withUrl("/chatHub")
+            .build();
+
+        bağlanti.on("MesajAl", function (kullanıcı, mesaj) {
+            const li = document.createElement("li");
+            li.textContent = `${kullanıcı}: ${mesaj}`;
+            document.getElementById("mesajlarListesi").appendChild(li);
+        });
+
+        bağlanti.start().catch(function (hata) {
+            return console.error(hata.toString());
+        });
+
+        function mesajGonder() {
+             const kullanici = document.getElementById("kullanıcıGirdisi").value;
+            const mesaj = document.getElementById("mesajGirdisi").value;
+            bağlanti.invoke("MesajGonder", kullanici, mesaj).catch(function (hata) {
+                return console.error(hata.toString());
+            });
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Box3.props" />
+</Project>

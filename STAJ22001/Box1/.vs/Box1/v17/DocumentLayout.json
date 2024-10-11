@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Casper\\source\\repos\\Box1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23D830E9-3153-43E2-A04B-E6369FADD0BF}|Box1\\Box1.csproj|c:\\users\\casper\\source\\repos\\box1\\box1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23D830E9-3153-43E2-A04B-E6369FADD0BF}|Box1\\Box1.csproj|solutionrelative:box1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D830E9-3153-43E2-A04B-E6369FADD0BF}|Box1\\Box1.csproj|c:\\users\\casper\\source\\repos\\box1\\box1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23D830E9-3153-43E2-A04B-E6369FADD0BF}|Box1\\Box1.csproj|solutionrelative:box1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D830E9-3153-43E2-A04B-E6369FADD0BF}|Box1\\Box1.csproj|c:\\users\\casper\\source\\repos\\box1\\box1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D830E9-3153-43E2-A04B-E6369FADD0BF}|Box1\\Box1.csproj|solutionrelative:box1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D830E9-3153-43E2-A04B-E6369FADD0BF}|Box1\\Box1.csproj|c:\\users\\casper\\source\\repos\\box1\\box1\\hub\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D830E9-3153-43E2-A04B-E6369FADD0BF}|Box1\\Box1.csproj|solutionrelative:box1\\hub\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D830E9-3153-43E2-A04B-E6369FADD0BF}|Box1\\Box1.csproj|c:\\users\\casper\\source\\repos\\box1\\box1\\data\\chatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D830E9-3153-43E2-A04B-E6369FADD0BF}|Box1\\Box1.csproj|solutionrelative:box1\\data\\chatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D830E9-3153-43E2-A04B-E6369FADD0BF}|Box1\\Box1.csproj|c:\\users\\casper\\source\\repos\\box1\\box1\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D830E9-3153-43E2-A04B-E6369FADD0BF}|Box1\\Box1.csproj|solutionrelative:box1\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D830E9-3153-43E2-A04B-E6369FADD0BF}|Box1\\Box1.csproj|c:\\users\\casper\\source\\repos\\box1\\box1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23D830E9-3153-43E2-A04B-E6369FADD0BF}|Box1\\Box1.csproj|solutionrelative:box1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 445,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Casper\\source\\repos\\Box1\\Box1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Box1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Casper\\source\\repos\\Box1\\Box1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Box1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T07:47:32.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Casper\\source\\repos\\Box1\\Box1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Box1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Casper\\source\\repos\\Box1\\Box1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Box1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T16:17:28.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Casper\\source\\repos\\Box1\\Box1\\appsettings.json",
+              "RelativeDocumentMoniker": "Box1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Casper\\source\\repos\\Box1\\Box1\\appsettings.json",
+              "RelativeToolTip": "Box1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T15:57:22.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\source\\repos\\Box1\\Box1\\Program.cs",
+              "RelativeDocumentMoniker": "Box1\\Program.cs",
+              "ToolTip": "C:\\Users\\Casper\\source\\repos\\Box1\\Box1\\Program.cs",
+              "RelativeToolTip": "Box1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:56:14.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\source\\repos\\Box1\\Box1\\Hub\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Box1\\Hub\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\Casper\\source\\repos\\Box1\\Box1\\Hub\\ChatHub.cs",
+              "RelativeToolTip": "Box1\\Hub\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:54:35.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatContext.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\source\\repos\\Box1\\Box1\\Data\\ChatContext.cs",
+              "RelativeDocumentMoniker": "Box1\\Data\\ChatContext.cs",
+              "ToolTip": "C:\\Users\\Casper\\source\\repos\\Box1\\Box1\\Data\\ChatContext.cs",
+              "RelativeToolTip": "Box1\\Data\\ChatContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:53:27.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\source\\repos\\Box1\\Box1\\Models\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "Box1\\Models\\ChatMessage.cs",
+              "ToolTip": "C:\\Users\\Casper\\source\\repos\\Box1\\Box1\\Models\\ChatMessage.cs",
+              "RelativeToolTip": "Box1\\Models\\ChatMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:49:58.83Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
